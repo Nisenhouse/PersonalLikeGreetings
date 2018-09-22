@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal-like Greetings</string>
+    <string name="title_home">אנשי קשר</string>
+    <string name="title_notifications">הודעה</string>
+    <string name="filter">מסנן:</string>
+    <string name="whatsapp_suffix">&#8204;&#8204;&#8204;</string>
+</resources>
